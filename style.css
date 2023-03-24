@@ -130,7 +130,6 @@
 }
 .content-right p{
     color: #fff;
-    width: 569px;
     font-family: 'DM Sans';
     font-style: normal;
     font-weight: 400;
@@ -249,6 +248,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 1200px;
+}
+.sp-cont img{
+    width: 100%;
 }
 .sp-food-about{
     color: #fff;
@@ -381,6 +383,9 @@
 .ex-cont{
     margin: 20px;
 }
+.ex-cont img{
+    width: 100%;
+}
 .cheff-about{
     color: #E8BE7F;
     font-family: 'DM Sans';
@@ -405,15 +410,40 @@
     background-size: cover;
     height: 600px;
 }
-.footer img{
-    width: 200px;
-    margin-left: 550px;
-}
 .footer-content{
     margin-top: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.footer img{
+    width: 200px;
+    margin-left: 530px;
+}
+.footer2{
+    margin: 0 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 200px;
+}
+.footer2 h3{
+    color: #E0AB81;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+}
+.footer2 p{
+    text-align: center;
+    color: #A7A7A7;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
 }
 .main-ul li{
     margin:50px 0;

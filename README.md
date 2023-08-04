@@ -1,3 +1,3 @@
 # Workshop
 name: Zeynalabdinov Qulamalı
-number: +994516304007
+Front-end of the restaurant website in this workshop
